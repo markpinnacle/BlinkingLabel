@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "summary": "A short description of test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mark Scrimgeour/test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mark Scrimgeour": "mark@pinnaclevl.com"
+  },
+  "source": {
+    "git": "https://github.com/Mark Scrimgeour/test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test/Classes/**/*"
+}
